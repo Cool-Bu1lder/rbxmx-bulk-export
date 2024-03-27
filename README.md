@@ -23,4 +23,4 @@ Separated one large rbxmx export into multiple smaller rbxmx files.
 4. Select the rbxmx file to separate into other rbxmx files.
 5. Select a folder to create the new rbxmx files in.
 
-Refer to example1 [a relative link](tests\example1) in tests [a relative link](tests).
+Refer to [example1](tests/example1) in [tests](tests).
