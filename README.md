@@ -1,7 +1,7 @@
 # rbxmx-bulk-export
 
 rbxmx bulk exporter for rbxlx rojo projects in python using Element Tree for xml and Tkinter for GUI.
-Separated one large rbxmx export into multiple smaller rbxmx files.
+Separates one large rbxmx export into multiple smaller rbxmx files.
 
 ## Usage
 
